@@ -1,29 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=F766C7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;My+name+is+%C3%89rica+Salgueiro)](https://git.io/typing-svg)
-=======================================================================================================================================
+https://capsule-render.vercel.app/api?type=wave&height=300&color=F67280&text=Hello%20World&section=header&reversal=false&textBg=false&fontColor=f7f5f5&animation=twinkling
 
-Java | Python
--------------
-
-I am currently a programming student
-
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [esalgueiro@gmail.com](mailto:esalgueiro@gmail.com)
-* 🧠  I'm learning and improving my knowledge in Java and Python
-
-### Skills
+# 💫 About Me:
+Back-End Java Developer Apprentice (2nd Semester - Analysis and Development of Systems)<br><br>Enthusiastic and dedicated Back-End Java Developer Apprentice currently in the 2nd semester of Analysis and Development of Systems. Passionate about software development, with a strong focus on Java, object-oriented programming (OOP), and back-end technologies. Eager to apply academic knowledge in real-world projects while continuously improving technical and problem-solving skills.
 
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http://www.instagram.com/_salgueiroz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erica-salgueiro-2249b8350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esalgueiro845@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EricaSalgueiro&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EricaSalgueiro&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSalgueiro&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### Socials
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<p align="left"> <a href="https://www.github.com/EricaSalgueiro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_salgueiroz/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/erica-salgueiro-2249b8350/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+![](https://github-contributor-stats.vercel.app/api?username=EricaSalgueiro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Badges
+---
+[![](https://visitcount.itsvg.in/api?id=EricaSalgueiro&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/EricaSalgueiro"><img src="https://github-readme-stats.vercel.app/api?username=EricaSalgueiro&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ec4899&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="EricaSalgueiro's GitHub stats" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
