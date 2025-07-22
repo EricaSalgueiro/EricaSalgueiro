@@ -1,4 +1,3 @@
-https://capsule-render.vercel.app/api?type=wave&height=300&color=F67280&text=Hello%20World&section=header&reversal=false&textBg=false&fontColor=f7f5f5&animation=twinkling
 
 # 💫 About Me:
 Back-End Java Developer Apprentice (2nd Semester - Analysis and Development of Systems)<br><br>Enthusiastic and dedicated Back-End Java Developer Apprentice currently in the 2nd semester of Analysis and Development of Systems. Passionate about software development, with a strong focus on Java, object-oriented programming (OOP), and back-end technologies. Eager to apply academic knowledge in real-world projects while continuously improving technical and problem-solving skills.
