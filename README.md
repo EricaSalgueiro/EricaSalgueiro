@@ -7,8 +7,6 @@ Back-End Java Developer Apprentice (2nd Semester - Analysis and Development of S
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-![](https://github-contributor-stats.vercel.app/api?username=EricaSalgueiro&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 
