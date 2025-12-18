@@ -1,13 +1,54 @@
 
-# 💫 About Me:
-Back-End Java Developer Apprentice (2nd Semester - Analysis and Development of Systems)<br><br>Enthusiastic and dedicated Back-End Java Developer Apprentice currently in the 2nd semester of Analysis and Development of Systems. Passionate about software development, with a strong focus on Java, object-oriented programming (OOP), and back-end technologies. Eager to apply academic knowledge in real-world projects while continuously improving technical and problem-solving skills.
+###
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+<h1 align="center">🌸 Érica Salgueiro</h1>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+###
 
----
+<h2 align="left">💜 Futura Full-Stack Developer</h2>
 
+###
 
+<h3 align="left">💗 Apaixonada por Java, Spring Boot e desenvolvimento web</h3>
 
+###
+
+<h3 align="left">🌷 Sobre mim<br><br>Sou Érica Salgueiro, desenvolvedora em formação com foco em Java +<br>Spring Boot, explorando o universo full stack e construindo soluções<br>intuitivas e funcionais.</h3>
+
+###
+
+<h3 align="left">💻 Tecnologias<br><br>⭐ Back-end<br><br>-   Java<br>-   Spring Boot<br><br> 🎨 Front-end<br><br>-   HTML<br>-   CSS<br>-   JavaScript<br><br> 🗄️ Conhecimentos extras<br>-   SQL<br>-   API REST</h3>
+
+###
+
+<h3 align="left">🩺 Meu primeiro projeto<br><br>Prontuário Online<br><br>Um sistema simples de prontuário digital onde pude aplicar:<br> - Estrutura básica de API REST<br>- Regras de negócio<br>- Organização de dados<br>- Padrões iniciais de backend</h3>
+
+###
+
+<h5 align="left">🔗 Onde me encontrar<br><br>-   💼 LinkedIn: https://www.linkedin.com/in/ericasalgueiro\<br>-   🐙 GitHub: https://github.com/EricaSalgueiro</h5>
+
+###
+
+<h3 align="left">✨ Obrigada por visitar!<br><br>Volte sempre que quiser conhecer novos projetos 💜🌸</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+###
