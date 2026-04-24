@@ -21,15 +21,7 @@
 
 ###
 
-<h3 align="left">🩺 Meu primeiro projeto<br><br>Prontuário Online<br><br>Um sistema simples de prontuário digital onde pude aplicar:<br> - Estrutura básica de API REST<br>- Regras de negócio<br>- Organização de dados<br>- Padrões iniciais de backend</h3>
-
-###
-
 <h5 align="left">🔗 Onde me encontrar<br><br>-   💼 LinkedIn: https://www.linkedin.com/in/ericasalgueiro\<br>-   🐙 GitHub: https://github.com/EricaSalgueiro</h5>
-
-###
-
-<h3 align="left">✨ Obrigada por visitar!<br><br>Volte sempre que quiser conhecer novos projetos 💜🌸</h3>
 
 ###
 
@@ -46,6 +38,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" height="40" alt="sqlite logo"  />
 </div>
+
+###
+
+<h3 align="left">✨ Obrigada por visitar!<br><br>Volte sempre que quiser conhecer novos projetos 💜🌸</h3>
 
 ###
 
