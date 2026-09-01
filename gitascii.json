@@ -1,0 +1,130 @@
+{
+  "widgets": [
+    {
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#ff3366",
+        "customTitle": "Surveillance Header",
+        "roleTag": "Java Developer",
+        "modeTag": "CYBER SURV",
+        "customBio": "Java Developer | Spring Boot | REST APIs | JPA/Hibernate | PostgreSQL\n| ORACLE | Always learning and building.",
+        "animationType": "none",
+        "animationPreviewKey": 2,
+        "secondaryColor": "#ffff55",
+        "ledColor": "#ff3366",
+        "showTitle": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1788226562630_0"
+    },
+    {
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 10,
+        "y": 417
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#ff3366",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#ffff55",
+        "ledColor": "#ff3366",
+        "showTitle": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1788226562630_1"
+    },
+    {
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
+      "position": {
+        "x": 10,
+        "y": 845
+      },
+      "size": {
+        "width": 780,
+        "height": 190
+      },
+      "config": {
+        "accentColor": "#ff3366",
+        "customTitle": "Surveillance Social Feeds",
+        "secondaryColor": "#ffff55",
+        "ledColor": "#ff3366",
+        "renderMode": "grid",
+        "selectedFeed": "linkedin"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1788226562630_2"
+    },
+    {
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 10,
+        "y": 1043
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#ff3366",
+        "customTitle": "Daily Loadout",
+        "secondaryColor": "#ffff55",
+        "ledColor": "#ff3366",
+        "workflow": [
+          "VS Code",
+          "Git",
+          "Docker",
+          "Terminal",
+          "PowerShell",
+          "Postman",
+          "PostgreSQL",
+          "Spring",
+          "GitHub",
+          "GitLab",
+          "Figma"
+        ],
+        "languages": [
+          "Bash",
+          "Java"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1788226562630_3"
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg"
+  },
+  "templateId": "rugbedbugg"
+}
