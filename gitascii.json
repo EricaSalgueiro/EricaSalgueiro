@@ -1,130 +1,159 @@
 {
+  "username": "EricaSalgueiro",
   "widgets": [
     {
-      "widgetId": "surveillance-header",
-      "name": "Surveillance-header Widget",
+      "widgetId": "header",
+      "name": "Header Widget",
       "position": {
-        "x": 10,
+        "x": 0,
         "y": 0
       },
       "size": {
-        "width": 780,
-        "height": 417
+        "width": 800,
+        "height": 96
       },
-      "config": {
-        "accentColor": "#ff3366",
-        "customTitle": "Surveillance Header",
-        "roleTag": "Java Developer",
-        "modeTag": "CYBER SURV",
-        "customBio": "Java Developer | Spring Boot | REST APIs | JPA/Hibernate | PostgreSQL\n| ORACLE | Always learning and building.",
-        "animationType": "none",
-        "animationPreviewKey": 2,
-        "secondaryColor": "#ffff55",
-        "ledColor": "#ff3366",
-        "showTitle": true
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1788226562630_0"
+      "instanceId": "widget_1788227716295_0"
     },
     {
-      "widgetId": "surveillance-telemetry",
-      "name": "Surveillance-telemetry Widget",
+      "widgetId": "bio",
+      "name": "Bio Widget",
       "position": {
-        "x": 10,
-        "y": 417
+        "x": 0,
+        "y": 112
       },
       "size": {
-        "width": 780,
-        "height": 420
+        "width": 800,
+        "height": 120
       },
       "config": {
-        "accentColor": "#ff3366",
-        "customTitle": "Terminal Telemetry",
-        "secondaryColor": "#ffff55",
-        "ledColor": "#ff3366",
-        "showTitle": true
+        "customBio": "Java Developer | Spring Boot | REST APIs | JPA/Hibernate | SQL\nAlways learning and building\n",
+        "textAlign": "center",
+        "accentColor": "#212830",
+        "textColor": "#bd93f9",
+        "hideDecorations": false,
+        "hideBorder": true,
+        "showTitle": false,
+        "lockAspectRatio": false
       },
       "locked": false,
       "visible": true,
       "zIndex": 2,
-      "instanceId": "widget_1788226562630_1"
+      "instanceId": "widget_1788227716295_1"
     },
     {
-      "widgetId": "surveillance-feeds",
-      "name": "Surveillance-feeds Widget",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
       "position": {
-        "x": 10,
-        "y": 845
+        "x": 0,
+        "y": 264
       },
       "size": {
-        "width": 780,
-        "height": 190
+        "width": 800,
+        "height": 140
       },
       "config": {
-        "accentColor": "#ff3366",
-        "customTitle": "Surveillance Social Feeds",
-        "secondaryColor": "#ffff55",
-        "ledColor": "#ff3366",
-        "renderMode": "grid",
-        "selectedFeed": "linkedin"
+        "selectedTechs": [
+          "docker",
+          "git",
+          "github",
+          "bash",
+          "java",
+          "gitlab",
+          "postman",
+          "vscode",
+          "spring"
+        ],
+        "accentColor": "#bd93f9",
+        "textColor": "#bd93f9",
+        "borderColor": "transparent",
+        "customTitle": "[ TECH STACK ]",
+        "theme": "light",
+        "perLine": 7
       },
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1788226562630_2"
+      "instanceId": "widget_1788227716295_2"
     },
     {
-      "widgetId": "surveillance-loadout",
-      "name": "Surveillance-loadout Widget",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
       "position": {
-        "x": 10,
-        "y": 1043
+        "x": 0,
+        "y": 404
       },
       "size": {
-        "width": 780,
-        "height": 200
+        "width": 800,
+        "height": 256
       },
       "config": {
-        "accentColor": "#ff3366",
-        "customTitle": "Daily Loadout",
-        "secondaryColor": "#ffff55",
-        "ledColor": "#ff3366",
-        "workflow": [
-          "VS Code",
-          "Git",
-          "Docker",
-          "Terminal",
-          "PowerShell",
-          "Postman",
-          "PostgreSQL",
-          "Spring",
-          "GitHub",
-          "GitLab",
-          "Figma"
+        "repoCardHeight": 66,
+        "showRepoStars": false,
+        "showRepoUpdated": true,
+        "showRepoLanguage": true,
+        "showRepoDesc": false,
+        "selectedRepos": [
+          "EricaSalgueiro"
         ],
-        "languages": [
-          "Bash",
-          "Java"
-        ]
+        "repoViewMode": "list",
+        "accentColor": "#bd93f9",
+        "textColor": "#bd93f9",
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
       "zIndex": 4,
-      "instanceId": "widget_1788226562630_3"
+      "instanceId": "widget_1788227716295_3"
+    },
+    {
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 632
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "email"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/EricaSalgueiro",
+          "linkedin": "https://www.linkedin.com/in/ericasalgueiro",
+          "email": "salgueirodev@outlook.com"
+        },
+        "badgeStyle": "skillicons",
+        "lockAspectRatio": false,
+        "animationType": "none",
+        "animationPreviewKey": 4,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5,
+      "instanceId": "widget_1788227716295_4"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#050308",
-    "textColor": "#e5e5e5",
-    "accentColor": "#55ffff",
-    "borderColor": "#1a1424",
-    "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 0,
+    "backgroundColor": "#080808",
+    "textColor": "#ffffff",
+    "accentColor": "#f3f4f6",
+    "borderColor": "#222222",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 8,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "rugbedbugg"
+    "templateStyle": "minimal_luxe"
   },
-  "templateId": "rugbedbugg"
+  "templateId": "minimal_luxe",
+  "profileSlug": "default"
 }
