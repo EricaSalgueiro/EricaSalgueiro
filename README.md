@@ -59,19 +59,3 @@ A healthcare platform designed to make hospital routines more functional, practi
 <p align="center">
   Thank you for visiting my profile! 💜
 </p>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EricaSalgueiro/EricaSalgueiro/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=EricaSalgueiro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricaSalgueiro/EricaSalgueiro/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricaSalgueiro/EricaSalgueiro/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EricaSalgueiro/EricaSalgueiro/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
